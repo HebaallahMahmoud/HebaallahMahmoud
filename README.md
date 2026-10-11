@@ -27,7 +27,7 @@ I'm a Computer Science student passionate about Front-End Development and buildi
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/heba-elsocary-b998ba340?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 🐙 GitHub: [My GitHub Profile](https://github.com/YOUR_USERNAME)
 
 ---
