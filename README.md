@@ -1,4 +1,4 @@
-<h1 align="center">💜 Hebat Allah Mahmoud</h1>
+<h1 align="center">💜 Heba Allah Mahmoud</h1>
 
 
 <h3 align="center">Computer Science Student | Front-End Developer</h3>
