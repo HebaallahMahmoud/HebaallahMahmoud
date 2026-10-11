@@ -1,9 +1,7 @@
-<h1 align="center">💜 Heba Allah Mahmoud</h1>
 
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Heba Allah" src="./assets/gh-readme-header.png" /></a></p>
 
-<h3 align="center">
-  <span style="color: #C084FC;">Computer Science Student | Front-End Developer</span>
-</h3>
+<h3 align="center">Computer Science Student | Front-End Developer</h3>
 
 
 <p align="center">
