@@ -8,6 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="80%" alt="Purple divider"/>
 </p>
 
+
 🎓 Computer Science Student | 💻 Front-End Developer
 
 I'm a Computer Science student passionate about Front-End Development and building clean, responsive, and user-friendly websites. I enjoy learning new technologies, improving my coding skills, and turning ideas into interactive web experiences.
