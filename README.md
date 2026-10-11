@@ -1,5 +1,5 @@
+<h1 align="center">💜 Hebat Allah Mahmoud</h1>
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Heba Allah" src="./assets/gh-readme-header.png" /></a></p>
 
 <h3 align="center">Computer Science Student | Front-End Developer</h3>
 
