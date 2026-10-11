@@ -1,10 +1,10 @@
 <h1 align="center">💜 Heba Allah Mahmoud</h1>
 
-<h3 align="center">Computer Science Student | Front-End Developer</h3>
 
-<p align="center">
-  <i>Learning, building, and turning ideas into reality.</i>
-</p>
+<h3 align="center">
+  <span style="color: #C084FC;">Computer Science Student | Front-End Developer</span>
+</h3>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="80%" alt="Purple divider"/>
